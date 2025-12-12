@@ -1,0 +1,5 @@
+# Privacy Policy
+
+Cookie Extractor does not collect, store, or transmit any personal data. 
+The extension only accesses cookies from the current website you're visiting 
+and operates entirely locally on your device. No data is sent to external servers.
